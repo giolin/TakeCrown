@@ -1,0 +1,28 @@
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+
+# Eclipse project files
+.classpath
+.project
+
+# IntelliJ IDEA project files
+.idea/
+*.eml
+*.iml
+
+# Proguard file
+proguard_logs/
+
+# Gradle
+# gradle/
